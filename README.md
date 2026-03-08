@@ -72,13 +72,13 @@ Senha: ...
 ### 1️⃣ Clonar o repositório
 
 ```bash
-git clone https://github.com/coder.marllon/nalin-frontend.git
+git clone https://github.com/coder.marllon/desafio-frontend.git
 ```
 
 ### 2️⃣ Acessar a pasta
 
 ```bash
-cd nalin-frontend
+cd desafio-frontend
 ```
 
 ### 3️⃣ Instalar dependências
